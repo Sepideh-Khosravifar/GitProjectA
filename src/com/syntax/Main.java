@@ -7,8 +7,11 @@ public class Main {
         System.out.println("I am good1");
         System.out.println("I am good2");
         System.out.println("I am good3");
+        System.out.println("I am good3");
+
+        System.out.println("I am correct code");
+        System.out.println("I am not confused");
 
 
-        System.out.println("10/0");
     }
 }
