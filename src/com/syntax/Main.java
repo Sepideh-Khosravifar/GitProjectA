@@ -8,5 +8,7 @@ public class Main {
         System.out.println("I am good2");
         System.out.println("I am good3");
 
+
+        System.out.println("10/0");
     }
 }
